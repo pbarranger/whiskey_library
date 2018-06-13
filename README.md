@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pbarranger/whiskey_library.git/gh-pages?filepath=ALS_without_train_split.ipynb)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pbarranger/whiskey_library.git/gh-pages)
 
 ## Welcome to GitHub Pages
 
